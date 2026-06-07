@@ -24,7 +24,6 @@
 ---
 
 ## 🚀 Featured Projects
-
 <table border="0">
   <tr>
     <td width="50%" valign="top">
@@ -54,21 +53,15 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📁 More Projects</h3>
-      <p>Check out my other repositories for work on:</p>
+      <h3>📄 ResumeForge (AI Resume Builder)</h3>
+      <p><i>Python | Django | scikit-learn | spaCy | Celery | WeasyPrint</i></p>
       <ul>
-        <li>Data Structures & Competitive Programming</li>
-        <li>Computer Vision Experiments</li>
-        <li>Image Preprocessing Scripts</li>
+        <li>NLP-powered system that scores resumes against job descriptions using TF-IDF cosine similarity.</li>
+        <li>Auto-generates ATS-compliant PDF resumes with keyword highlighting via WeasyPrint.</li>
       </ul>
     </td>
   </tr>
 </table>
-
----
-
-
-<div align="center">
 
 ## 📊 My GitHub Statistics
 
