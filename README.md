@@ -66,13 +66,15 @@
 
 ## 📊 My GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akash6870&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="195px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash6870&theme=radical&border_radius=10&hide_title=false" height="195px" />
+<div align="center">
+  <h2>📊 My GitHub Statistics</h2>
 
-<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash6870&show_icons=true&theme=radical&rank_icon=github&border_radius=10&cache_seconds=1800" height="195px" alt="Akash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash6870&theme=radical&border_radius=10&hide_title=false&cache_seconds=1800" height="195px" alt="Akash's Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash6870&theme=radical&border_radius=10" width="85%" />
+  <br/><br/>
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash6870&theme=radical&border_radius=10" width="85%" alt="Akash's GitHub Streak" />
 </div>
 
 ### 🌐 Connect with Me
